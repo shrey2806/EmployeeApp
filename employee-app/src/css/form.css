@@ -1,0 +1,14 @@
+/* .employeeForm{
+    width : 400px;
+} */
+.span{
+    margin-top:20px;
+    
+}
+
+.employeeForm{
+
+    border: 0.5px dashed black;
+    padding: 30px;
+    border-radius: 5px;
+}
